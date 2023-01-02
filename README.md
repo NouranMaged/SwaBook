@@ -1,6 +1,5 @@
 # SwaBook
-ReactNative application
-React Native Mobile Application helps users to Exchange or Donate their old books. 
+ReactNative Mobile Application helps users to Exchange or Donate their old books. 
 
 Main App.Features: 
 
